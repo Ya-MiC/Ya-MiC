@@ -1,5 +1,7 @@
 <h2>Hi there, I'm Ya mic! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="wave"></h2>
 
+<img align='right' alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 <p><em>DevOps & Cloud Native Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="rocket"></em></p>
 
 - 👨‍💻 I'm currently working on Cloud Native & Automation
@@ -9,9 +11,13 @@
 
 ---
 
-### Spotify Playing 🎧
+### 🎵 Now Playing
 
-[![Spotify](https://img.shields.io/badge/🎵_Now_Playing-STEP_·_LAY_张艺兴-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9)
+<a href="https://open.spotify.com/artist/0uK5autQMKVtDhFe76MxKh">
+  <img src="https://img.shields.io/badge/Spotify-Lay_Zhang_Human-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
+</a>
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0uK5autQMKVtDhFe76MxKh)
 
 ---
 
@@ -22,34 +28,58 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```javascript
-const yamic = {
-    pronouns: "he" | "him",
-    location: "Quanzhou, China 🇨🇳",
-    languages: ["Python", "Bash", "JavaScript", "TypeScript"],
-    tools: ["Linux", "Docker", "Kubernetes", "Nginx"],
-    cloud: ["Cloudflare", "GitHub Actions"],
-    currentFocus: "Cloud Native & Automation",
-    funFact: "I love OpenClaw 🦞"
-};
+```java
+/**
+ * @author YaMic · 晏铭 · 字湛箴
+ * @born 2006 | Quanzhou, China 🇨🇳
+ * @education 黎明职业大学 2025
+ */
+class YaMic extends Human {
+    constructor() {
+        super();
+        this.identity = {
+            name: "晏铭",
+            alias: "字湛箴",
+            handle: "YaMic"
+        };
+        this.style = "Vibe Coder — I orchestrate AI, not syntax 🤖";
+        this.expertise = ["Cloudflare Ecosystem", "AI Agents", "OpenClaw 🦞"];
+        this.building = "财会 × 审计 AI Agent · Dynamic Excel/Word Automation";
+        this.philosophy = "Great software doesn't explain itself — it just ships.";
+    }
+    
+    greet() {
+        return "叫我 YaMic，我会很开心 👋";
+    }
+}
 ```
 
 ---
 
 ### Languages and Tools 🛠
 
+<div align="center">
+
+**AI & Automation**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
+
+**Vibe Coding**  
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+
+**Infrastructure & Cloud**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Domain · 财会自动化**  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+
+</div>
 
 ---
 
