@@ -11,9 +11,13 @@
 
 ---
 
-### Spotify Playing 🎧
+### 🎵 Now Playing
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/YaMic188)
+<a href="https://open.spotify.com/track/6ZCt5tJY0hWBWq6eGfFf0z">
+  <img src="https://novatorem-bgstatic.vercel.app/api/spotify-playing?song=Lay%20Zhang%20-%20Human&artist=Lay%20Zhang" alt="Spotify" />
+</a>
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0uK5autQMKVtDhFe76MxKh)
 
 ---
 
