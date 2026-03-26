@@ -1,7 +1,5 @@
 <h2>Hi there, I'm Ya mic! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="wave"></h2>
 
-
-
 <p><em>DevOps & Cloud Native Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="rocket"></em></p>
 
 - 👨‍💻 I'm currently working on Cloud Native & Automation
@@ -11,13 +9,9 @@
 
 ---
 
-### 🎵 Now Playing
+### Spotify Playing 🎧
 
-<a href="https://open.spotify.com/track/6ZCt5tJY0hWBWq6eGfFf0z">
-  <img src="https://novatorem-bgstatic.vercel.app/api/spotify-playing?song=Lay%20Zhang%20-%20Human&artist=Lay%20Zhang" alt="Spotify" />
-</a>
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0uK5autQMKVtDhFe76MxKh)
+[![Spotify](https://img.shields.io/badge/🎵_Now_Playing-HUMAN_·_LAY_张艺兴-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9)
 
 ---
 
