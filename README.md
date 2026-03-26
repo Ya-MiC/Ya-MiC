@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Ya mic! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="wave"></h2>
 
-<img align='right' alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 <p><em>DevOps & Cloud Native Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="rocket"></em></p>
 
