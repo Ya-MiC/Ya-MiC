@@ -11,13 +11,10 @@
 
 ---
 
-### 🎵 Now Playing
 
-<a href="https://open.spotify.com/artist/0uK5autQMKVtDhFe76MxKh">
-  <img src="https://img.shields.io/badge/Spotify-Lay_Zhang_Human-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
-</a>
+### Spotify Playing 🎧
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0uK5autQMKVtDhFe76MxKh)
+[![Spotify](https://img.shields.io/badge/🎵_Now_Playing-STEP_·_LAY_张艺兴-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9)
 
 ---
 
