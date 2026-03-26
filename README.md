@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://img.shields.io/badge/🎵_Now_Playing-HUMAN_·_LAY_张艺兴-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9)
+[![Spotify](https://img.shields.io/badge/🎵_Now_Playing-STEP_·_LAY_张艺兴-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9)
 
 ---
 
