@@ -7,7 +7,7 @@
 - 👨‍💻 I'm currently working on Cloud Native & Automation
 - 📚 I'm currently learning Kubernetes, Microservices, DevOps
 - 💪🏼 Future Goals: Never stop creating new ideas
-- ⚡️ Fun fact: I love OpenClaw 🦞
+- ⚡️ Fun fact: yut
 
 ---
 
