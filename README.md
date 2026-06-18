@@ -27,7 +27,7 @@
 
 ```java
 /**
- * @author YaMic · 晏铭 · 字湛箴
+ * @author YaMic · 晏铭 · 湛箴
  * @born 2006 | Quanzhou, China 🇨🇳
  * @education 黎明职业大学 2025
  */
@@ -36,7 +36,7 @@ class YaMic extends Human {
         super();
         this.identity = {
             name: "晏铭",
-            alias: "字湛箴",
+            alias: "湛箴",
             handle: "YaMic"
         };
         this.style = "Vibe Coder — I orchestrate AI, not syntax 🤖";
