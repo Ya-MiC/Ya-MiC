@@ -28,8 +28,7 @@
 ```java
 /**
  * @author YaMic · 晏铭 · 湛箴
- * @born 2006 | Quanzhou, China 🇨🇳
- * @education 黎明职业大学 2025
+ * @born 2006 
  */
 class YaMic extends Human {
     constructor() {
